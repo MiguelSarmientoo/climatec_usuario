@@ -1,0 +1,25 @@
+@import "paper-kit/variables";
+@import "paper-kit/mixins";
+
+// Core CSS
+@import "paper-kit/buttons";
+@import "paper-kit/pagination";
+@import "paper-kit/typography";
+@import "paper-kit/misc";
+
+// components
+@import "paper-kit/social-buttons";
+@import "paper-kit/navbars";
+@import "paper-kit/dropdown";
+@import "paper-kit/footers";
+
+// Cards
+@import "paper-kit/cards";
+@import "paper-kit/cards/card-plain";
+@import "paper-kit/cards/card-register";
+@import "paper-kit/cards/card-profile";
+
+// example pages and sections
+@import "paper-kit/examples";
+@import "paper-kit/sections";
+@import "paper-kit/responsive";
